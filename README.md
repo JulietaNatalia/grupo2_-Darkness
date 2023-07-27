@@ -11,8 +11,6 @@ Darkness está diseñado para aquellos amantes de la moda que aprecian la simpli
 Rol: Desarrolladora Full-Stack
 Descripción: Soy una apasionada desarrolladora con experiencia en diferentes tecnologías web. Mi objetivo en este proyecto es combinar mi amor por la moda y la programación para crear una experiencia de compra en línea fluida y atractiva. Trabajaré para asegurar que Darkness refleje la estética minimalista y la filosofía oversize que nos define, y me comprometo a entregar un sitio web funcional y estéticamente agradable.
 <br> <br>
-¡Gracias por visitar Darkness! Esperamos que disfrutes explorando nuestra colección y encuentres el estilo que mejor te represente. Siéntete libre de contactarnos si necesitas ayuda o tienes alguna pregunta sobre nuestra tienda en línea. ¡Esperamos verte luciendo tu look Darkness pronto!
-<br> <br>
 **Links de Referentes**
 https://kingofthekongo.com.ar/
 https://ropaandroll.com/

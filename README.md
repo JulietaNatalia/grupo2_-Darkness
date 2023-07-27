@@ -1,18 +1,21 @@
-# grupo2_-EcoTrade
-Temática del Market Place
-Bienvenidos a "EcoTrade" - un e-commerce sostenible y responsable. Nuestro sitio está dedicado a promover y facilitar la compra y venta de productos ecológicos, sostenibles y amigables con el medio ambiente. Queremos crear un espacio donde los consumidores puedan acceder a una amplia variedad de productos que no solo sean de alta calidad, sino que también contribuyan a la preservación del planeta.
+# grupo2_-Darkness
+**DARKNESS** <BR> <BR>
+**Oferta de Productos y/o Servicios:** <br>
+Bienvenidos a "Darkness" - Tu destino de moda minimalista y estilo oversize. En nuestro sitio, ofrecemos una selección única de ropa y accesorios para aquellos que buscan un estilo sofisticado y cómodo. Nuestra tienda en línea presenta una amplia gama de prendas de vestir en tallas oversize que se adaptan a todos los géneros y estilos. Desde suéteres y vestidos hasta chaquetas y accesorios, cada pieza en Darkness ha sido cuidadosamente seleccionada para brindar comodidad y elegancia a la vez.
 
-Público Objetivo
-Nuestro sitio está dirigido a personas comprometidas con el cuidado del medio ambiente, que buscan opciones sostenibles y ecológicas para sus compras. Nos enfocamos en consumidores concienciados que desean tomar decisiones responsables y contribuir a un mundo más limpio y verde. Además, también apuntamos a emprendedores y productores que ofrecen productos ecológicos y desean conectar con una audiencia comprometida.
+**Público Objetivo:** <br>
+Darkness está diseñado para aquellos amantes de la moda que aprecian la simplicidad y la versatilidad en su estilo. Nuestro público objetivo incluye a personas que valoran la comodidad y la estética minimalista. Aquellos que buscan prendas amplias y relajadas que les permitan expresar su individualidad con un toque de elegancia. Ya sea que busques un atuendo casual para el día a día o una pieza audaz para destacar, en Darkness encontrarás una amplia variedad de opciones para expresar tu estilo de forma auténtica.
 
-Integrantes del Equipo
-1. Juan Pérez
-Rol: Desarrollador Full-Stack
-Descripción: Apasionado por la programación, Juan tiene experiencia en el desarrollo web y está entusiasmado por contribuir al proyecto con sus habilidades técnicas. Siempre está buscando aprender nuevas tecnologías y soluciones para mejorar la experiencia del usuario.
-2. María Rodríguez
-Rol: Diseñadora UX/UI
-Descripción: María es una talentosa diseñadora con una fuerte comprensión de la experiencia del usuario y el diseño centrado en el cliente. Su objetivo es crear una interfaz atractiva y funcional que mejore la usabilidad del sitio y refleje los valores ecológicos que promovemos.
-3. Alejandro Gómez
-Rol: Product Owner
-Descripción: Alejandro será el enlace entre el equipo de desarrollo y el cliente, asegurándose de que los requerimientos sean claros y la visión del proyecto se mantenga enfocada. Con su experiencia en la gestión de proyectos, buscará que el proceso sea eficiente y efectivo.
-¡Esperamos que EcoTrade sea un éxito y ayude a fomentar un estilo de vida más sostenible para todos!
+**Integrante del Equipo:** <br>
+-Julieta Natalia Cabezas
+Rol: Desarrolladora Full-Stack
+Descripción: Soy una apasionada desarrolladora con experiencia en diferentes tecnologías web. Mi objetivo en este proyecto es combinar mi amor por la moda y la programación para crear una experiencia de compra en línea fluida y atractiva. Trabajaré para asegurar que Darkness refleje la estética minimalista y la filosofía oversize que nos define, y me comprometo a entregar un sitio web funcional y estéticamente agradable.
+<br> <br>
+¡Gracias por visitar Darkness! Esperamos que disfrutes explorando nuestra colección y encuentres el estilo que mejor te represente. Siéntete libre de contactarnos si necesitas ayuda o tienes alguna pregunta sobre nuestra tienda en línea. ¡Esperamos verte luciendo tu look Darkness pronto!
+<br> <br>
+**Links de Referentes**
+https://kingofthekongo.com.ar/
+https://ropaandroll.com/
+https://www.malibuoutfitters.com.ar/
+https://www.vogue.com/shopping/new-arrivals
+https://www.1992wear.com/

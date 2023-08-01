@@ -1,8 +1,6 @@
 # Darkness
 
-**Grupo 2**
-
-## Oferta de Productos y/o Servicios ⚙️
+#### Oferta de Productos y/o Servicios
 
 Bienvenidos a _"Darkness"_ - Tu destino de moda minimalista y estilo oversize.
 En nuestro sitio, ofrecemos una selección única de ropa y accesorios para
@@ -12,7 +10,7 @@ a todos los géneros y estilos. Desde suéteres y vestidos hasta chaquetas y
 accesorios, cada pieza en Darkness ha sido cuidadosamente seleccionada para
 brindar comodidad y elegancia a la vez.
 
-## Público Objetivo 🏙️
+#### Público Objetivo
 
 Darkness está diseñado para aquellos amantes de la moda que aprecian la
 simplicidad y la versatilidad en su estilo. Nuestro público objetivo incluye a
